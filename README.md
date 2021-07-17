@@ -29,12 +29,12 @@ Nice output console of bot.
 ### Chrome
 1. First of all you need to install an extension called [TamperMonkey](https://www.tampermonkey.net/). 
 2. Once you have this extension installed you can either istall the BOT simply by adding TamperMonkey.js to your userscript extension (TamperMonkey) or via link bellow.
-[InstallBOT](https://raw.githubusercontent.com/xadam1/GrepoBot/master/install.user.js)
+[InstallBOT](https://raw.githubusercontent.com/Autarch-s/GrepoBot/master/install.user.js)
 
 ### Firefox
 1. In order to use Grepobot you need to install an extention named [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/). Greasemonkey is an userscript manager for Morzilla Firefox. Basically the very same as TamperMonkey for Chrome.
 2. Once you have this extension installed you can either istall the BOT simply by adding TamperMonkey.js to your userscript extension (TamperMonkey) or via link bellow.
-[InstallBOT](https://raw.githubusercontent.com/xadam1/GrepoBot/master/install.user.js)
+[InstallBOT](https://raw.githubusercontent.com/Autarch-s/GrepoBot/master/install.user.js)
 
 
 

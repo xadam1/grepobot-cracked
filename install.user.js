@@ -1,7 +1,7 @@
 // ==UserScript==
 
 // @name         GrepoBot
-// @author       xadam1, rubensei, kevenvz & grepobot
+// @author       xadam1, rubensei, Autarch,  kevenvz & grepobot
 // @description  Grepolis automated bot, which helps you with some stuff!
 
 // @include      http://*.grepolis.com/game/*
@@ -20,8 +20,8 @@
     script.type = 'text/javascript';
     link.type = 'text/css';
     link.rel = 'stylesheet';
-    script.src = 'https://cdn.jsdelivr.net/gh/xadam1/GrepoBot@v5.1/GrepobotMinified.js';
-    link.href = 'https://cdn.jsdelivr.net/gh/xadam1/GrepoBot@v5.1/Autobot.css';
+    script.src = 'https://cdn.jsdelivr.net/gh/Autarch-s/GrepoBot@master/GrepobotMinified.js';
+    link.href = 'https://cdn.jsdelivr.net/gh/Autarch-s/GrepoBot@master/Autobot.css';
     head.appendChild(script);
     head.appendChild(link);
     head.setAttribute('xhttps', 1);
